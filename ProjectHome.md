@@ -1,0 +1,1 @@
+This is a mobile game for at least MIDP 2.0 devices. It is to be a kind of rpg game with logical games as quests.
